@@ -3,7 +3,7 @@ class Operacao {
 int[] moneyBills = {100, 50, 20, 10, 5, 2, 1};
 //if you want different money bills, you have to change it in here.
   
- void quantidadeDeNotas(int value) // a função ne
+ void moneyBillsQuantity(int value) // a função ne
   
   {
     for(int i = 0; i < moneyBills.length; i++)
